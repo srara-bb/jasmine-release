@@ -1,2 +1,2 @@
 # jasmine-release
-unknown
+用于存放Jasmine的Release
